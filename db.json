@@ -1,0 +1,42 @@
+{
+  "categorias": [
+    {
+      "titulo": "teste",
+      "id": 1
+    },
+    {
+      "titulo": "asd",
+      "id": 2
+    },
+    {
+      "titulo": "asdasd",
+      "id": 3
+    },
+    {
+      "titulo": "123asd",
+      "id": 4
+    },
+    {
+      "titulo": "asdxczxc",
+      "id": 5
+    }
+  ],
+  "notas": [
+    {
+      "id": 2,
+      "titulo": "asdasd",
+      "conteudo": "123",
+      "tema": "dark",
+      "categoriaId": 1,
+      "arquivada": false
+    },
+    {
+      "id": 3,
+      "titulo": "asdasd",
+      "conteudo": "m.;nnm",
+      "tema": "danger",
+      "categoriaId": 1,
+      "arquivada": false
+    }
+  ]
+}
